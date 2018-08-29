@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "first package",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "learn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiveo/npm-lab-v-000.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiveo/npm-lab-v-000/issues"
+  },
+  "homepage": "https://github.com/Kiveo/npm-lab-v-000#readme"
+}
